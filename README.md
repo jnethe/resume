@@ -4,6 +4,8 @@ Biography
 
 Tech Centric Resume
 
+Finance Centric Resume
+
 Portfolio
 
 DevOps Specific
